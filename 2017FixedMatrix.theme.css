@@ -1,4 +1,4 @@
-//META{"name":"Sonia","description":"Inspired by my beautiful wife","version":"5.5","author":"Satanacore"}*//{}
+//META{"name":"Matrix 2017","description":"Works with the latest Discord updates","version":"5.5","author":"Satanacore"}*//{}
 /*credits below */
 /* "ClearVision - Amethyst v5" by @Zerthox */
 
@@ -202,8 +202,8 @@ color: lime !important;
 	color: lime !important;
 }
 .messages.scroller {
-	background-image: url(https://cdn.discordapp.com/attachments/306253853266018304/373738204831940608/1507041909329.JPEG) !important;
-	background-size:contain !important;
+	background-image: url(https://cdn.discordapp.com/attachments/306253853266018304/375093479778287616/Matrix.gif) !important;
+	background-size:cover !important;
 	background-repeat: no-repeat !important;
 	background-position: center !important;
 }
